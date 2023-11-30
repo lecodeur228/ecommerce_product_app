@@ -1,16 +1,12 @@
 # ecommerce_produict_app
 
-A new Flutter project.
+  git clone https://github.com/lecodeur228/ecommerce_product_app.git
 
-## Getting Started
+  flutter pub get
 
-This project is a starting point for a Flutter application.
+app Screen
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/lecodeur228/ecommerce_product_app/assets/92242447/017eae88-0112-4dd5-beea-24ea2822921d
+
